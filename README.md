@@ -14,6 +14,13 @@ This is an interactive **Streamlit web application** that predicts whether a cus
 
 ---
 
+## 🌐 Live Demo
+You can access the deployed application here:
+🔗 [Customer Churn Prediction App](https://bankcustomerchurnpredictionann-o5toc5bbijuhck6ebdmxay.streamlit.app/) – Streamlit
+
+📌 Note: The app may take a few seconds to load as the Streamlit Cloud platform spins up the instance.
+
+
 ## 🗂️ Project Structure
 
     ├── data/
